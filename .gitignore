@@ -4,8 +4,6 @@
 /.classpath
 /.mendix-cache/
 /.project
-/deployment/
-/javasource/*/proxies/
 /javasource/system/
 /modeler-merge-marker
 /nativemobile/builds
